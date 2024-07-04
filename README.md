@@ -7,7 +7,7 @@ Analista de Dados
 
 
 - Um incorrigível devorador de livros!
-- 🔭 Atualmente estou migrando de área para **Análise de Dados**  (Linkedin: https://www.linkedin.com/in/f%C3%A1bio-barreto-684228310/);
+- 🔭 Atualmente estou migrando de área para **Análise de Dados**;
 - 🌱 Atualmente mais focado em:
 - 
   ![image](https://github.com/fabiobarreto-ds/fabiobarreto-ds/assets/109318444/3b561227-1d22-4283-b081-c6d347e3c0bb)
@@ -20,4 +20,12 @@ Analista de Dados
           
           
 - 📫 Contatos: fabiobarreto.ds@hotmail.com / (71) 99695-1980
+- -Você também me acha aqui:
+<a href="https://www.linkedin.com/in/f%C3%A1bio-barreto-684228310/">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a/>
+
+<a href="https://www.instagram.com/fabio_barreto1980/?next=%2F">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a/>
 
