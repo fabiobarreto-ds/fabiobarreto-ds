@@ -3,7 +3,7 @@ Analista de Dados
 
 => Análise de Dados pela DNC e Cientista de Dados pela Ada Tech
 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+##
 
 
 - Um incorrigível devorador de livros!
