@@ -7,7 +7,7 @@ Analista de Dados
 
 
 - Um incorrigível devorador de livros!
-- 🔭 Atualmente estou migrando de área para **Análise de Dados**;
+- 🔭 Atualmente migrando para a área de **Análise de Dados**;
 - 🌱 Atualmente mais focado em:
 - 
   ![image](https://github.com/fabiobarreto-ds/fabiobarreto-ds/assets/109318444/3b561227-1d22-4283-b081-c6d347e3c0bb)
