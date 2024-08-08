@@ -1,5 +1,5 @@
 ## Olá, meu nome é Fábio Antônio Barreto
-Um analista de dados procurando seu lugar ao sol, buscando seu primeiro trabalho a área.
+Um analista de dados buscando seu lugar ao sol, procurando seu primeiro trabalho na área.
 
 => Formado em Análise de Dados pela DNC e Cientista de Dados pela Ada Tech
 
