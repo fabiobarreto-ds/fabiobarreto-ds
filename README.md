@@ -3,7 +3,7 @@ Um analista de dados buscando seu lugar ao sol, procurando seu primeiro trabalho
 
 ![Profile views](https://gvpc.arturio.dev/fabiobarreto-ds)
 
-<div class="tenor-gif-embed" data-postid="25862261" data-share-method="host" data-aspect-ratio="2.5" data-width="100%"><a href="https://tenor.com/view/bem-vindo-gif-25862261">Bem Vindo GIF</a>from <a href="https://tenor.com/search/bem+vindo-gifs">Bem Vindo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/pt-BR/view/bem-vindo-gif-25862261
 
 => Formado em Análise de Dados pela DNC e Cientista de Dados pela Ada Tech
 
