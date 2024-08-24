@@ -2,7 +2,8 @@
 Um analista de dados buscando seu lugar ao sol, procurando seu primeiro trabalho na área.
 => Formado em Análise de Dados pela DNC e Cientista de Dados pela Ada Tech
 
-![fb6cb5d4e658c6538a5795b42c37e71d](https://github.com/user-attachments/assets/7966cab1-3b04-431f-98b0-bdbcbfa4cc19)
+
+![bem-vindo](https://github.com/user-attachments/assets/0fe2a055-6a8f-4241-9653-4c36092b5721)
 
 
 
