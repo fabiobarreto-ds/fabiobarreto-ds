@@ -3,26 +3,7 @@ Um analista de dados buscando seu lugar ao sol, procurando seu primeiro trabalho
 
 ![Profile views](https://gvpc.arturio.dev/fabiobarreto-ds)
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112" height="20" role="img" aria-label="Profile views: <?= $views ?>">
-    <title>Profile views: <?= $views ?></title>
-    <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-        <stop offset="1" stop-opacity=".1"/>
-    </linearGradient>
-    <clipPath id="r">
-        <rect width="112" height="20" rx="3" fill="#fff"/>
-    </clipPath>
-    <g clip-path="url(#r)">
-        <rect width="79" height="20" fill="#555"/>
-        <rect x="79" width="33" height="20" fill="#4c1"/>
-        <rect width="112" height="20" fill="url(#s)"/>
-    </g>
-    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
-        <text aria-hidden="true" x="400" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="">Profile views</text>
-        <text x="400" y="140" transform="scale(.1)" fill="#fff" textLength="">Profile views</text>
-        <text aria-hidden="true" x="950" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength=""><?= $views ?></text>
-        <text x="950" y="140" transform="scale(.1)" fill="#fff" textLength=""><?= $views ?></text>
-    </g>
-</svg>
+<div class="tenor-gif-embed" data-postid="25862261" data-share-method="host" data-aspect-ratio="2.5" data-width="100%"><a href="https://tenor.com/view/bem-vindo-gif-25862261">Bem Vindo GIF</a>from <a href="https://tenor.com/search/bem+vindo-gifs">Bem Vindo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 => Formado em Análise de Dados pela DNC e Cientista de Dados pela Ada Tech
 
