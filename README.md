@@ -1,7 +1,8 @@
 ## Olá, meu nome é Fábio Antônio Barreto
 Um analista de dados buscando seu lugar ao sol, procurando seu primeiro trabalho na área.
 
-<div class="tenor-gif-embed" data-postid="21275794" data-share-method="host" data-aspect-ratio="1.5311" data-width="100%"><a href="https://tenor.com/view/up-gif-21275794">Up GIF</a>from <a href="https://tenor.com/search/up-gifs">Up GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![77e9fc79dcb7e4bda65a9722612ff229](https://github.com/user-attachments/assets/52d74fd2-52ac-4029-83ce-d50b2ca846e6)
 
 => Formado em Análise de Dados pela DNC e Cientista de Dados pela Ada Tech
 
