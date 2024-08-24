@@ -1,8 +1,9 @@
 ## Olá, meu nome é Fábio Antônio Barreto
 Um analista de dados buscando seu lugar ao sol, procurando seu primeiro trabalho na área.
 
+![fb6cb5d4e658c6538a5795b42c37e71d](https://github.com/user-attachments/assets/7966cab1-3b04-431f-98b0-bdbcbfa4cc19)
 
-![77e9fc79dcb7e4bda65a9722612ff229](https://github.com/user-attachments/assets/52d74fd2-52ac-4029-83ce-d50b2ca846e6)
+
 
 => Formado em Análise de Dados pela DNC e Cientista de Dados pela Ada Tech
 
