@@ -1,6 +1,8 @@
 ## Olá, meu nome é Fábio Antônio Barreto
 Um analista de dados buscando seu lugar ao sol, procurando seu primeiro trabalho na área.
 
+![Profile views](https://gvpc.arturio.dev/fabiobarreto-ds)
+
 => Formado em Análise de Dados pela DNC e Cientista de Dados pela Ada Tech
 
 ##
