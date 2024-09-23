@@ -1,5 +1,8 @@
 ## Olá, meu nome é Fábio Antônio Barreto
-Um **Analista de Dados** buscando seu lugar ao sol, procurando seu primeiro trabalho na área.
+
+ No meu portfólio, você encontrará diversos projetos que demonstram minhas habilidades em análise estatística, visualização de dados e ferramentas como PPower BI e SQL.
+
+🔍 Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em análise de dados e contribuir para soluções inovadoras.
 
 => Formado em Análise de Dados pela DNC e Cientista de Dados pela Ada Tech
 
