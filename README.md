@@ -1,6 +1,6 @@
 ## Olá, meu nome é Fábio Antônio Barreto
 
- No meu portfólio, você encontrará diversos projetos que demonstram minhas habilidades em análise estatística, visualização de dados e ferramentas como PPower BI e SQL.
+ No meu portfólio, você encontrará diversos projetos que demonstram minhas habilidades em análise estatística, visualização de dados e ferramentas como Power BI e SQL.
 
 🔍 Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em análise de dados e contribuir para soluções inovadoras.
 
